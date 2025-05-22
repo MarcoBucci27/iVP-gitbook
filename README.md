@@ -14,8 +14,6 @@ Welcome. This wiki was created to offer an overview of the different iVP applica
 
 * [iVP Hub](home/ivp-launcher/)
 * [iVP Planning](home/ivp-planning/)
-* [iVP Showroom](home/ivp-showroom.md)
-* [iVP Viewer](home/ivp-viewer.md)
 
 {% hint style="info" %}
 Should you still have any questions, please do not hesitate to contact us by email or phone.
